@@ -1,0 +1,13 @@
+C:\Users\fedor\source\repos\kart_06_12_2019\kart_06_12_2019\bin\Debug\kart_06_12_2019.exe.config
+C:\Users\fedor\source\repos\kart_06_12_2019\kart_06_12_2019\bin\Debug\kart_06_12_2019.exe
+C:\Users\fedor\source\repos\kart_06_12_2019\kart_06_12_2019\bin\Debug\kart_06_12_2019.pdb
+C:\Users\fedor\source\repos\kart_06_12_2019\kart_06_12_2019\obj\Debug\kart_06_12_2019.csprojAssemblyReference.cache
+C:\Users\fedor\source\repos\kart_06_12_2019\kart_06_12_2019\obj\Debug\kart_06_12_2019.exe
+C:\Users\fedor\source\repos\kart_06_12_2019\kart_06_12_2019\obj\Debug\kart_06_12_2019.pdb
+C:\Progects\C#\kart_06_12_2019\kart_06_12_2019\bin\Debug\kart_06_12_2019.exe.config
+C:\Progects\C#\kart_06_12_2019\kart_06_12_2019\bin\Debug\kart_06_12_2019.exe
+C:\Progects\C#\kart_06_12_2019\kart_06_12_2019\bin\Debug\kart_06_12_2019.pdb
+C:\Progects\C#\kart_06_12_2019\kart_06_12_2019\obj\Debug\kart_06_12_2019.csprojAssemblyReference.cache
+C:\Progects\C#\kart_06_12_2019\kart_06_12_2019\obj\Debug\kart_06_12_2019.csproj.CoreCompileInputs.cache
+C:\Progects\C#\kart_06_12_2019\kart_06_12_2019\obj\Debug\kart_06_12_2019.exe
+C:\Progects\C#\kart_06_12_2019\kart_06_12_2019\obj\Debug\kart_06_12_2019.pdb
